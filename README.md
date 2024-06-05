@@ -16,7 +16,7 @@
  # Snapshot of (Power BI DESKTOP)
 
  
-![GEN_Z_POWER-BI_DASHBOARD.jpg](https://github.com/demorunner/Gen-Z-Career-Aspiration-Dashboard/blob/main/GEN_Z_POWER-BI_DASHBOARD.jpg?raw=true)
+![GEN_Z_POWER-BI_DASHBOARD_IMAGE.jpg](https://github.com/demorunner/Gen-Z-Career-Aspiration-Dashboard/blob/main/GEN_Z_POWER-BI_DASHBOARD_IMAGE.jpg?raw=true)
 
 # Insights
 
@@ -24,7 +24,7 @@ A single page report was created on Power BI Desktop & it was then published to 
 
 Following inferences can be drawn from the dashboard;
 
-### [1] Total Number of Customers
+### [1] Total Number of Customers = 129880
 
            
 ### [2] Average Ratings
